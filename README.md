@@ -41,6 +41,7 @@ You can get in touch with me through the contact form on the website, or directl
 
 - **Email**: [rabia@example.com](rabiachaudhary854@gmail.com)
 - **LinkedIn**: [linkedin.com/in/rabia-chaudhary](https://linkedin.com/in/rabia-chaudhary-profile)
+- **YouTube**: [youtube.com/in/@use_these_apps](https://www.youtube.com/channel/UCjxucQwWnM4109wCku8vomQ)
 
 ## Setup Instructions
 
