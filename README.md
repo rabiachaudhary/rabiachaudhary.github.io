@@ -39,9 +39,9 @@ Visit my blog to read about the latest trends in e-marketing, tips for product m
 
 You can get in touch with me through the contact form on the website, or directly via email and social media:
 
-- **Email**: [rabia@example.com](rabiachaudhary854@gmail.com)
-- **LinkedIn**: [linkedin.com/in/rabia-chaudhary](https://linkedin.com/in/rabia-chaudhary-profile)
-- **YouTube**: [youtube.com/in/@use_these_apps](https://www.youtube.com/channel/UCjxucQwWnM4109wCku8vomQ)
+- **Email**: [rabiachaudhary854@gmail.com](rabiachaudhary854@gmail.com)
+- **LinkedIn**: [linkedin.com/in/rabia-chaudhary-profile](https://linkedin.com/in/rabia-chaudhary-profile)
+- **YouTube**: [youtube.com/@use_these_apps](https://www.youtube.com/channel/UCjxucQwWnM4109wCku8vomQ)
 
 ## Setup Instructions
 
